@@ -4,7 +4,7 @@
 #### I am Web Developer
 
 
-Hi, I'm Famid Khandoker, a Web Designer and Developer with a strong passion for creating modern, user-friendly, and efficient web applications. I specialize in full-stack development using HTML, CSS, JavaScript, React, Node.js, and Express.js to build responsive and scalable web solutions.
+Hi, I'm Famid Khandoker, a Web Designer and Developer with a strong passion for creating modern, user-friendly, and efficient web applications. I learning in full-stack development using HTML, CSS, JavaScript, React, Node.js, and Express.js to build responsive and scalable web solutions.
 
 In addition to my web development skills, I have a solid background in C and C++, along with a deep understanding of Data Structures and Algorithms. This foundation allows me to write optimized code, solve complex problems, and develop software that performs reliably and efficiently.
 
